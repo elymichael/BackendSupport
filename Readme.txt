@@ -1,3 +1,2 @@
-https://github.com/
-elymichael@gmail.com
-Admin#113 or Admin113
+Message Queue Library.
+InterCommunication library.
